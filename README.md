@@ -1,4 +1,7 @@
 # eclipse整合SSM框架
+- Spring
+- SpringMVC
+- MyBatis
 
 #### 创建一个动态的web项目
 
